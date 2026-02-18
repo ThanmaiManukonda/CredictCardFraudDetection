@@ -151,19 +151,3 @@ fraud-detection-project/
 ├── requirements.txt
 └── README.md
 
-------------------------------------------------------------
-
-## Interview Explanation
-
-This project uses PCA-based anonymized features to detect fraud patterns.
-It combines anomaly detection and XGBoost classification.
-The system is deployed using Streamlit for real-time fraud prediction.
-
-------------------------------------------------------------
-
-## Future Improvements
-
-- Add SHAP explainability
-- Add cloud deployment
-- Add REST API integration
-- Add threshold tuning
