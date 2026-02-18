@@ -1,0 +1,16 @@
+# Ignore dataset
+creditcard.csv
+
+# Ignore trained model
+fraud_model.pkl
+
+# Ignore virtual environment
+venv/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore system files
+.DS_Store
+Thumbs.db
