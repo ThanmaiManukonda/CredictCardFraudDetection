@@ -119,24 +119,35 @@ Fraud detection is based on pattern recognition.
 
 ## How To Run
 
-Step 1: Go to project folder
+### Step 1: Go to project folder
 
+```
 cd fraud-detection-project
+```
 
-Step 2: Activate virtual environment (Windows)
+### Step 2: Activate virtual environment (Windows)
 
+```
 venv\Scripts\activate
+```
 
-Step 3: Train model
+### Step 3: Train model
 
+```
 python notebook.py
+```
 
-Step 4: Run web app
+### Step 4: Run web app
 
+```
 streamlit run app.py
+```
 
 Open in browser:
+
+```
 http://localhost:8501
+```
 
 ------------------------------------------------------------
 
