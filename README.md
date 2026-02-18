@@ -142,6 +142,7 @@ http://localhost:8501
 
 ## Project Structure
 
+```
 fraud-detection-project/
 │
 ├── creditcard.csv
@@ -150,4 +151,4 @@ fraud-detection-project/
 ├── fraud_model.pkl
 ├── requirements.txt
 └── README.md
-
+```
