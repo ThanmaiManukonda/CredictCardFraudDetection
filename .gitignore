@@ -1,9 +1,6 @@
 # Ignore dataset
 creditcard.csv
 
-# Ignore trained model
-fraud_model.pkl
-
 # Ignore virtual environment
 venv/
 
@@ -14,3 +11,4 @@ __pycache__/
 # Ignore system files
 .DS_Store
 Thumbs.db
+
